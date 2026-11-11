@@ -1,3 +1,9 @@
 # My Project
 
-Let's add a line.
+This is my first Git repository.
+
+## What I Learned
+
+* Git tracks changes
+* Commits are snapshots
+* GitHub stores repositories online
